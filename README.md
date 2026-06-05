@@ -47,19 +47,19 @@ lab-report-writer/
 ### 生成实验指南
 
 ```text
-请用 /lab-report-writer 来帮我写实验指南。我做的是实验一，xxxx.pdf 是实验指导书。
+请用 /lab-report-writer 来帮我写实验指南。我做的是实验一，@xxxx.pdf 是实验指导书。
 ```
 
 ### 生成预习报告
 
 ```text
-请用 /lab-report-writer 来帮我写预习报告。我做的是实验一，xxxx.pdf 是实验指导书，xxxx.docx 是实验模板，xxxx.pdf 是参考实验报告。
+请用 /lab-report-writer 来帮我写预习报告。我做的是实验一，@xxxx.pdf 是实验指导书，@xxxx.docx 是实验模板，@xxxx.pdf 是参考实验报告。
 ```
 
 ### 生成完整实验报告
 
 ```text
-请用 /lab-report-writer 来帮我写实验报告。我做的是实验一，xxxx.pdf 是实验指导书，xxxx.docx 是实验模板，xxxx.pdf 是参考实验报告，xxxx.png 是实验结果。
+请用 /lab-report-writer 来帮我写实验报告。我做的是实验一，@xxxx.pdf 是实验指导书，@xxxx.docx 是实验模板，@xxxx.pdf 是参考实验报告，@xxxx.png 是实验结果。
 ```
 
 ## LaTeX 说明🧩

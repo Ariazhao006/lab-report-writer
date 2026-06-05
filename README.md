@@ -17,6 +17,26 @@
 - 实验结果图片或数据
 - 实验报告示例（可选）
 
+## 文件结构📁
+
+```text
+lab-report-writer/
+├── SKILL.md
+├── SKILL-ZH.md
+├── README.md
+├── agents/
+│   └── openai.yaml
+└── assets/
+    ├── scut-emblem.jpg
+    └── scut-logo.jpg
+```
+
+- `SKILL.md`：英文版 skill 主文件，Codex 会读取它来判断何时使用这个 skill，以及如何完成任务。
+- `SKILL-ZH.md`：中文版 skill 说明，方便中文用户阅读和维护。
+- `README.md`：仓库说明文档
+- `agents/openai.yaml`：Codex 界面展示用的元数据，例如 skill 名称、简介和默认提示词。
+- `assets/`：可复用素材。目前包含 SCUT 校徽和校标。
+
 ## 如何使用🚀
 
 这是一个 Codex skill。先建立项目文件夹，将实验相关文件全部放入，再在 Codex 中选择项目，选择“打开已有文件夹”。

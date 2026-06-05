@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lab Report Writer"
+  short_description: "Write lab reports or beginner experiment guides."
+  default_prompt: "Use lab-report-writer to create an experiment guide, pre-lab report, or complete lab report from the project template, experiment instructions, and result files."
